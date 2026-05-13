@@ -6,7 +6,7 @@
 
 ## Group Members
 
-| # | Full Name | Student Number |
+|   | Full Name | Student Number |
 |---|-----------|----------------|
 | 1 | Tshepiso Mofokeng | 224079447 |
 | 2 | Ntlahla Dlali | 220039413 |
