@@ -8,11 +8,11 @@
 
 | # | Full Name | Student Number |
 |---|-----------|----------------|
-| 1 | [Full Name] | [Student Number] |
-| 2 | [Full Name] | [Student Number] |
-| 3 | [Full Name] | [Student Number] |
-| 4 | [Full Name] | [Student Number] |
-| 5 | [Full Name] | [Student Number] |
+| 1 | Tshepiso Mofokeng | 224079447 |
+| 2 | Ntlahla Dlali | 220039413 |
+| 3 | Tshitso Selepe | 224004059 |
+| 4 | Odwa Cengimbo| 222068206 |
+
 
 ---
 
