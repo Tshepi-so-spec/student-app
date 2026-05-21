@@ -1,7 +1,5 @@
 /**
- * Student Numbers: [Student Number 1], [Student Number 2], [Student Number 3], [Student Number 4], [Student Number 5]
- * Student Names  : [Full Name 1], [Full Name 2], [Full Name 3], [Full Name 4], [Full Name 5]
- * Question: Application ViewModel
+ * Question: Application ViewModel - Tshepiso Mofokeng
  */
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
