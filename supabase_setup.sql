@@ -4,11 +4,11 @@
 -- INSTRUCTIONS: Run this ENTIRE script in the Supabase SQL Editor
 --   (Supabase Dashboard → SQL Editor → New Query → Paste → Run)
 -- GROUP MEMBERS:
---   1. [Full Name]  [Student Number]
---   2. [Full Name]  [Student Number]
---   3. [Full Name]  [Student Number]
---   4. [Full Name]  [Student Number]
---   5. [Full Name]  [Student Number]
+-- GROUP MEMBERS:
+--   1. Tshepiso Mofokeng   224079447
+--   2. Dlali Ntlahla       220039413
+--   3. Odwa Cengimbo       222068206
+--   4. Tshitso Selepe      224004059
 -- =============================================================
 
 -- ──────────────────────────────────────────────────────────────
