@@ -1,7 +1,8 @@
 /**
- * Student Numbers: [Student Number 1], [Student Number 2], [Student Number 3], [Student Number 4], [Student Number 5]
- * Student Names  : [Full Name 1], [Full Name 2], [Full Name 3], [Full Name 4], [Full Name 5]
- * Question: Student Application Model
+ * Student Numbers: 224079447, 220039413, 222068206, 224004059
+ * Student Names  : Tshepiso Mofokeng, Dlali Ntlahla,
+ *                  Odwa Cengimbo, Tshitso Selepe
+ * Question: Student Application Model - Tshepiso Mofokeng
  */
 class StudentApplication {
   final String  id;
