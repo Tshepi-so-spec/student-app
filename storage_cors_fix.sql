@@ -1,9 +1,7 @@
 -- =============================================================
 -- FILE: storage_cors_fix.sql
--- Run this in Supabase SQL Editor to fix file uploads on web
 -- =============================================================
 
--- Drop and recreate storage policies with broader web access
 drop policy if exists "Auth users upload docs" on storage.objects;
 drop policy if exists "Public read docs" on storage.objects;
 drop policy if exists "Users delete own docs" on storage.objects;
